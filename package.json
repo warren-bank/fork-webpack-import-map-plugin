@@ -1,5 +1,5 @@
 {
-  "name": "webpack-import-map-plugin",
+  "name": "@warren-bank/webpack-import-map-plugin",
   "version": "1.0.0-alpha1",
   "description": "A webpack plugin to help generate import maps for outputted entry files, based on webpack-manifest-plugin",
   "main": "./src/plugin.js",
